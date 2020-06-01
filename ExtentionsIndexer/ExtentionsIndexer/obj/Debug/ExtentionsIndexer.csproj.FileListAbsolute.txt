@@ -1,0 +1,6 @@
+E:\P116\ExtentionsIndexer\ExtentionsIndexer\bin\Debug\ExtentionsIndexer.exe.config
+E:\P116\ExtentionsIndexer\ExtentionsIndexer\bin\Debug\ExtentionsIndexer.exe
+E:\P116\ExtentionsIndexer\ExtentionsIndexer\bin\Debug\ExtentionsIndexer.pdb
+E:\P116\ExtentionsIndexer\ExtentionsIndexer\obj\Debug\ExtentionsIndexer.csprojAssemblyReference.cache
+E:\P116\ExtentionsIndexer\ExtentionsIndexer\obj\Debug\ExtentionsIndexer.exe
+E:\P116\ExtentionsIndexer\ExtentionsIndexer\obj\Debug\ExtentionsIndexer.pdb
